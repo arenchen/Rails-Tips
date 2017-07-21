@@ -1,7 +1,7 @@
 # Setup Ruby On Rails on Ubuntu 16.04
 ```shell
 sudo apt-get update -y
-sudo apt-get install build-essential libssl-dev libreadline-dev zlib1g-dev
+sudo apt-get install -y build-essential libssl-dev libreadline-dev zlib1g-dev
 ```
 ## Install rbenv
 ```shell
