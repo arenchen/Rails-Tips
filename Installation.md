@@ -31,10 +31,10 @@ source ~/.bash_profile
 rbenv install -l
 
 # install a Ruby version:
-rbenv install 2.4.1
+rbenv install 2.4.2
 
 # set to default
-rbenv global 2.4.1
+rbenv global 2.4.2
 ```
 
 ## Install Rails
